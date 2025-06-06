@@ -135,10 +135,10 @@ A comprehensive web-based School Management System built with Laravel that strea
 
 ## 🛠️ Technologies Used
 
-- **Backend**: Laravel 9.x (PHP Framework)
+- **Backend**: Laravel 8.x (PHP Framework)
 - **Frontend**: Bootstrap 4, jQuery, HTML5, CSS3
 - **Database**: MySQL
-- **Authentication**: Laravel Sanctum
+- **Authentication**: Laravel Jetstream
 - **Charts**: C3.js, Chart.js
 - **PDF Generation**: DomPDF
 - **Icons**: Feather Icons, Font Awesome
