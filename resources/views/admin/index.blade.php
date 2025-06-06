@@ -14,8 +14,8 @@
 			<i class="text-primary mr-0 font-size-24 mdi mdi-account-multiple"></i>
 		</div>
 		<div>
-			<p class="text-mute mt-20 mb-0 font-size-16">New Customers</p>
-			<h3 class="text-white mb-0 font-weight-500">3400 <small class="text-success"><i class="fa fa-caret-up"></i> +2.5%</small></h3>
+			<p class="text-mute mt-20 mb-0 font-size-16">Total Students</p>
+			<h3 class="text-white mb-0 font-weight-500">1,245 <small class="text-success"><i class="fa fa-caret-up"></i> +8.5%</small></h3>
 		</div>
 	</div>
 </div>
@@ -24,11 +24,11 @@
 <div class="box overflow-hidden pull-up">
 	<div class="box-body">							
 		<div class="icon bg-warning-light rounded w-60 h-60">
-			<i class="text-warning mr-0 font-size-24 mdi mdi-car"></i>
+			<i class="text-warning mr-0 font-size-24 mdi mdi-account-tie"></i>
 		</div>
 		<div>
-			<p class="text-mute mt-20 mb-0 font-size-16">Sold Cars</p>
-			<h3 class="text-white mb-0 font-weight-500">3400 <small class="text-success"><i class="fa fa-caret-up"></i> +2.5%</small></h3>
+			<p class="text-mute mt-20 mb-0 font-size-16">Total Teachers</p>
+			<h3 class="text-white mb-0 font-weight-500">89 <small class="text-success"><i class="fa fa-caret-up"></i> +3.2%</small></h3>
 		</div>
 	</div>
 </div>
@@ -37,11 +37,11 @@
 <div class="box overflow-hidden pull-up">
 	<div class="box-body">							
 		<div class="icon bg-info-light rounded w-60 h-60">
-			<i class="text-info mr-0 font-size-24 mdi mdi-sale"></i>
+			<i class="text-info mr-0 font-size-24 mdi mdi-cash-multiple"></i>
 		</div>
 		<div>
-			<p class="text-mute mt-20 mb-0 font-size-16">Sales Lost</p>
-			<h3 class="text-white mb-0 font-weight-500">$1,250 <small class="text-danger"><i class="fa fa-caret-down"></i> -0.5%</small></h3>
+			<p class="text-mute mt-20 mb-0 font-size-16">Monthly Revenue</p>
+			<h3 class="text-white mb-0 font-weight-500">$45,250 <small class="text-success"><i class="fa fa-caret-up"></i> +12.5%</small></h3>
 		</div>
 	</div>
 </div>
@@ -50,11 +50,11 @@
 <div class="box overflow-hidden pull-up">
 	<div class="box-body">							
 		<div class="icon bg-danger-light rounded w-60 h-60">
-			<i class="text-danger mr-0 font-size-24 mdi mdi-phone-incoming"></i>
+			<i class="text-danger mr-0 font-size-24 mdi mdi-school"></i>
 		</div>
 		<div>
-			<p class="text-mute mt-20 mb-0 font-size-16">Inbound Call</p>
-			<h3 class="text-white mb-0 font-weight-500">1,460 <small class="text-danger"><i class="fa fa-caret-up"></i> -1.5%</small></h3>
+			<p class="text-mute mt-20 mb-0 font-size-16">Total Classes</p>
+			<h3 class="text-white mb-0 font-weight-500">24 <small class="text-success"><i class="fa fa-caret-up"></i> +2.1%</small></h3>
 		</div>
 	</div>
 </div>
@@ -67,8 +67,8 @@
 <div class="box">
 	<div class="box-header">
 		<h4 class="box-title align-items-start flex-column">
-			New Arrivals
-			<small class="subtitle">More than 400+ new members</small>
+			Recent Student Registrations
+			<small class="subtitle">Latest enrolled students this month</small>
 		</h4>
 	</div>
 	<div class="box-body">
@@ -76,11 +76,11 @@
 			<table class="table no-border">
 				<thead>
 					<tr class="text-uppercase bg-lightest">
-						<th style="min-width: 250px"><span class="text-white">products</span></th>
-						<th style="min-width: 100px"><span class="text-fade">pruce</span></th>
-						<th style="min-width: 100px"><span class="text-fade">deposit</span></th>
-						<th style="min-width: 150px"><span class="text-fade">agent</span></th>
-						<th style="min-width: 130px"><span class="text-fade">status</span></th>
+						<th style="min-width: 250px"><span class="text-white">Student Details</span></th>
+						<th style="min-width: 100px"><span class="text-fade">Class</span></th>
+						<th style="min-width: 100px"><span class="text-fade">Fee Status</span></th>
+						<th style="min-width: 150px"><span class="text-fade">Guardian</span></th>
+						<th style="min-width: 130px"><span class="text-fade">Status</span></th>
 						<th style="min-width: 120px"></th>
 					</tr>
 				</thead>
@@ -93,17 +93,17 @@
 								</div>
 
 								<div>
-									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Vivamus consectetur</a>
-									<span class="text-fade d-block">Pharetra, Nulla , Nec, Aliquet</span>
+									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Ahmed Hassan</a>
+									<span class="text-fade d-block">Roll: 2024001, Grade 10-A</span>
 								</div>
 							</div>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Paid
+								Class 10
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45,800k
+								Science Section
 							</span>
 						</td>
 						<td>
@@ -111,23 +111,23 @@
 								Paid
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45k
+								$450
 							</span>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Sophia
+								Mr. Hassan Ali
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								Pharetra
+								Father
 							</span>
 						</td>
 						<td>
-							<span class="badge badge-primary-light badge-lg">Approved</span>
+							<span class="badge badge-primary-light badge-lg">Active</span>
 						</td>
 						<td class="text-right">
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-bookmark-plus"></span></a>
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-arrow-right"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-eye"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-pencil"></span></a>
 						</td>
 					</tr>
 					<tr>										
@@ -138,41 +138,41 @@
 								</div>
 
 								<div>
-									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Vivamus consectetur</a>
-									<span class="text-fade d-block">Pharetra, Nulla , Nec, Aliquet</span>
+									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Sarah Mohammed</a>
+									<span class="text-fade d-block">Roll: 2024002, Grade 9-B</span>
 								</div>
 							</div>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Paid
+								Class 9
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45,800k
+								Arts Section
 							</span>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Paid
+								Pending
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45k
+								$420
 							</span>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Sophia
+								Mrs. Fatima Ahmed
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								Pharetra
+								Mother
 							</span>
 						</td>
 						<td>
-							<span class="badge badge-warning-light badge-lg">In Progress</span>
+							<span class="badge badge-warning-light badge-lg">Pending</span>
 						</td>
 						<td class="text-right">
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-bookmark-plus"></span></a>
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-arrow-right"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-eye"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-pencil"></span></a>
 						</td>
 					</tr>
 					<tr>										
@@ -183,17 +183,17 @@
 								</div>
 
 								<div>
-									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Vivamus consectetur</a>
-									<span class="text-fade d-block">Pharetra, Nulla , Nec, Aliquet</span>
+									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Omar Ibrahim</a>
+									<span class="text-fade d-block">Roll: 2024003, Grade 11-A</span>
 								</div>
 							</div>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Paid
+								Class 11
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45,800k
+								Commerce Section
 							</span>
 						</td>
 						<td>
@@ -201,23 +201,23 @@
 								Paid
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45k
+								$480
 							</span>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Sophia
+								Mr. Ibrahim Yusuf
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								Pharetra
+								Father
 							</span>
 						</td>
 						<td>
-							<span class="badge badge-success-light badge-lg">Success</span>
+							<span class="badge badge-success-light badge-lg">Active</span>
 						</td>
 						<td class="text-right">
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-bookmark-plus"></span></a>
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-arrow-right"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-eye"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-pencil"></span></a>
 						</td>
 					</tr>
 					<tr>										
@@ -228,41 +228,41 @@
 								</div>
 
 								<div>
-									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Vivamus consectetur</a>
-									<span class="text-fade d-block">Pharetra, Nulla , Nec, Aliquet</span>
+									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Maryam Abdullah</a>
+									<span class="text-fade d-block">Roll: 2024004, Grade 8-C</span>
 								</div>
 							</div>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Paid
+								Class 8
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45,800k
+								General Section
 							</span>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Paid
+								Overdue
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45k
+								$380
 							</span>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Sophia
+								Mr. Abdullah Khalil
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								Pharetra
+								Father
 							</span>
 						</td>
 						<td>
-							<span class="badge badge-danger-light badge-lg">Rejected</span>
+							<span class="badge badge-danger-light badge-lg">Fee Due</span>
 						</td>
 						<td class="text-right">
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-bookmark-plus"></span></a>
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-arrow-right"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-eye"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-pencil"></span></a>
 						</td>
 					</tr>
 					<tr>										
@@ -273,41 +273,41 @@
 								</div>
 
 								<div>
-									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Vivamus consectetur</a>
-									<span class="text-fade d-block">Pharetra, Nulla , Nec, Aliquet</span>
+									<a href="#" class="text-white font-weight-600 hover-primary mb-1 font-size-16">Yusuf Rahman</a>
+									<span class="text-fade d-block">Roll: 2024005, Grade 12-A</span>
 								</div>
 							</div>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Paid
+								Class 12
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45,800k
+								Science Section
 							</span>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Paid
+								Partial
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								$45k
+								$500
 							</span>
 						</td>
 						<td>
 							<span class="text-fade font-weight-600 d-block font-size-16">
-								Sophia
+								Mrs. Aisha Rahman
 							</span>
 							<span class="text-white font-weight-600 d-block font-size-16">
-								Pharetra
+								Mother
 							</span>
 						</td>
 						<td>
-							<span class="badge badge-warning-light badge-lg">In Progress</span>
+							<span class="badge badge-warning-light badge-lg">Partial Payment</span>
 						</td>
 						<td class="text-right">
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-bookmark-plus"></span></a>
-							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-arrow-right"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-eye"></span></a>
+							<a href="#" class="waves-effect waves-light btn btn-info btn-circle mx-5"><span class="mdi mdi-pencil"></span></a>
 						</td>
 					</tr>
 				</tbody>
@@ -321,5 +321,4 @@
 		<!-- /.content -->
 	  </div>
   </div>
-
-  @endsection
+@endsection

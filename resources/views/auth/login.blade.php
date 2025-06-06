@@ -8,8 +8,8 @@
     <meta name="author" content="">
     <link rel="icon" href="../images/favicon.ico">
 
-    <title>Easy ERP - Log in </title>
-  
+    <title>School Management System - Log in </title>
+
     <!-- Vendors Style-->
     <link rel="stylesheet" href="{{ asset('backend/css/vendors_css.css') }}">
       
@@ -61,7 +61,7 @@
             <!-- /.col -->
             <div class="col-6">
              <div class="fog-pwd text-right">
-                <a href="{{ route('password.request') }}" class="text-white hover-info"><i class="ion ion-locked"></i> Forgot pwd?</a><br>
+                <a href="{{ route('password.request') }}" class="text-white hover-info"><i class="ion ion-locked"></i> Forgot password?</a><br>
               </div>
             </div>
             <!-- /.col -->

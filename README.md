@@ -1,61 +1,151 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# 🏫 School Management System
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+A comprehensive web-based School Management System built with Laravel that streamlines administrative tasks, student management, employee management, and academic operations for educational institutions.
 
-## About Laravel
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 📋 Table of Contents
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [System Modules](#system-modules)
+- [Technologies Used](#technologies-used)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## ✨ Features
 
-## Learning Laravel
+### 👥 User Management
+- Multi-role user system (Admin, Staff, Teachers)
+- User profile management
+- Password change functionality
+- Role-based access control
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### 🎓 Student Management
+- Student registration and enrollment
+- Roll number generation
+- Student promotion system
+- Fee management (Registration, Monthly, Exam fees)
+- Student ID card generation
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### 👨‍🏫 Employee Management
+- Employee registration and profiles
+- Salary management and increments
+- Leave management system
+- Attendance tracking
+- Monthly salary processing
 
-## Laravel Sponsors
+### 📚 Academic Management
+- Class and year setup
+- Subject management and assignment
+- Exam type configuration
+- Marks entry and grading system
+- Grade management
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+### 💰 Financial Management
+- Fee category and amount setup
+- Student fee collection
+- Employee salary payments
+- Other cost management
+- Financial reporting
 
-### Premium Partners
+### 📊 Reports & Analytics
+- Monthly/Yearly profit reports
+- Mark sheet generation
+- Attendance reports
+- Student result reports
+- Comprehensive dashboard analytics
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+## 📸 Screenshots
 
-## Contributing
+### Login
+![Login Screenshot](screenshots/login.png)
+*User authentication page for secure access*
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Dashboard
+![Dashboard Screenshot](screenshots/dashboard.png)
+*Main dashboard with overview statistics and quick access menu*
 
-## Code of Conduct
+### Settings
+![Settings](screenshots/settings.png)
+*System configuration and setup management*
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### Student Management
+![Student Management](screenshots/student_management.png)
+*Student registration and management interface*
 
-## Security Vulnerabilities
+### Employee Management
+![Employee Management](screenshots/employee_management.png)
+*Employee registration and salary management*
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Mark Management
+![Mark Management](screenshots/mark_management.png)
+*Marks entry, grading, and report card generation*
 
-## License
+### Account Management
+![Account Management](screenshots/account_management.png)
+*Fee collection, salary payments, and financial tracking*
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Reports
+![Reports](screenshots/reports.png)
+*Comprehensive reporting system with various report types*
+
+
+## 🏗️ System Modules
+
+### 📋 Setup Management
+- **Student Classes**: Define academic classes
+- **Academic Years**: Manage school years
+- **Student Groups**: Organize student groups
+- **Student Shifts**: Configure class shifts
+- **Fee Categories**: Set up different fee types
+- **Exam Types**: Define examination categories
+- **Subjects**: Manage school subjects
+- **Designations**: Employee position management
+
+### 👨‍🎓 Student Operations
+- Student registration and enrollment
+- Roll number assignment
+- Fee collection and tracking
+- Academic record management
+- Promotion handling
+
+### 👥 Employee Operations
+- Staff registration and profiles
+- Attendance management
+- Leave tracking
+- Salary processing
+- Performance monitoring
+
+### 📝 Academic Operations
+- Marks entry and management
+- Grade calculation
+- Report card generation
+- Subject assignment
+- Examination management
+
+### 💼 Financial Operations
+- Fee collection tracking
+- Salary disbursement
+- Expense management
+- Financial reporting
+- Profit/loss analysis
+
+## 🛠️ Technologies Used
+
+- **Backend**: Laravel 9.x (PHP Framework)
+- **Frontend**: Bootstrap 4, jQuery, HTML5, CSS3
+- **Database**: MySQL
+- **Authentication**: Laravel Sanctum
+- **Charts**: C3.js, Chart.js
+- **PDF Generation**: DomPDF
+- **Icons**: Feather Icons, Font Awesome
+- **Editor**: CKEditor
+- **Scrollbar**: Perfect Scrollbar
+
+
+**Made with ❤️ for Educational Institutions**
+
+*Streamline your school management with our comprehensive solution!*
